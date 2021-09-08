@@ -1,0 +1,714 @@
+# Translation of Plugins - Under Construction - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Under Construction - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-08 19:44:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Under Construction - Stable (latest release)\n"
+
+#: under-construction.php:1569
+msgid "Custom Footer Code"
+msgstr "Користувацький код підвалу"
+
+#: under-construction.php:1657
+msgid "WhatsApp phone number in international format without + or 00 prefix."
+msgstr "Телефонний номер WhatsApp в міжнародному форматі без + або префікса 00."
+
+#: under-construction.php:1656
+msgid "123-456-789"
+msgstr "123-456-789"
+
+#: under-construction.php:1731
+msgid "Dumper Truck"
+msgstr "Самоскид"
+
+#: under-construction.php:1627
+msgid "Complete URL, with https prefix, to Behance profile."
+msgstr "Повний URL, з префіксом https, до профіля на Behance."
+
+#: under-construction.php:1730
+msgid "Simple Green Animated"
+msgstr "Простий зелений анімований"
+
+#: under-construction.php:1729
+msgid "Temporarily Closed"
+msgstr "Тимчасово закрито"
+
+#: under-construction.php:1638
+msgid "VK profile URL"
+msgstr "URL профіля ВКонтакті"
+
+#: under-construction.php:1637
+msgid "VK Profile"
+msgstr "Профіль ВКонтакті"
+
+#: under-construction.php:1728
+msgid "Hard Worker"
+msgstr "Працьовитий робітник"
+
+#: under-construction.php:1727
+msgid "Pink Lips"
+msgstr "Рожеві губи"
+
+#: under-construction.php:1687
+msgid "Simple Office"
+msgstr "Простий офіс"
+
+#: under-construction.php:1721
+msgid "Fitness Studio Landing Page"
+msgstr "Сторінка фітнес студії"
+
+#: under-construction.php:1718
+msgid "Sunset"
+msgstr "Захід сонця"
+
+#: under-construction.php:1715
+msgid "Forest in the Fog"
+msgstr "Ліс в тумані"
+
+#: under-construction.php:1712
+msgid "Travel Blog"
+msgstr "Туристичний блог"
+
+#: under-construction.php:1685
+msgid "Simple Beige Text"
+msgstr "Простий бежевий текст"
+
+#: under-construction.php:1706
+msgid "Soothing Nature"
+msgstr "Заспокійлива природа"
+
+#: under-construction.php:1700
+msgid "Small Office"
+msgstr "Малий офіс"
+
+#: under-construction.php:1694
+msgid "Cloud Business"
+msgstr "Хмарний бізнес"
+
+#: under-construction.php:2109
+msgid "Features"
+msgstr "Функції"
+
+#: under-construction.php:2021
+msgid "Save &amp; Validate License Key"
+msgstr "Зберігти та перевірити ліцензійний ключ"
+
+#: under-construction.php:1998 under-construction.php:2005
+msgid "License Status"
+msgstr "Статус ліцензії"
+
+#: under-construction.php:1979
+msgid "License Key"
+msgstr "Ліцензійний ключ"
+
+#: under-construction.php:1828
+msgid "Secret Direct Access Links"
+msgstr "Посилання секретного прямого доступу"
+
+#: under-construction.php:1697
+msgid "Green Smoothie Webinar"
+msgstr "Вебінар зелене смузі"
+
+#: under-construction.php:1691
+msgid "The Watch Store"
+msgstr "Магазин годинників"
+
+#: under-construction.php:1724
+msgid "Mountain Peak"
+msgstr "Горна вершина"
+
+#: under-construction.php:1549
+msgid "3rd Party Shortcode Support in Content"
+msgstr "Підтримка у змісті шорткоду третіх сторон"
+
+#: under-construction.php:1384
+msgid "While performing maintenance or having any temporary content displayed, it is favorable for SEO to prevent search engines from indexing the temporaray site. This is a <a href=\"#\" class=\"open-ucp-upsell\" data-pro-ad=\"search_engines_text\">PRO feature</a>."
+msgstr "Під час проведення технічного обслуговування сайту або розміщення на ньому тимчасового змісту, бажано запобігти індексації тимчасового сайту пошуковими системами. Ця функція є у версії <a href=\"#\" class=\"open-ucp-upsell\" data-pro-ad=\"search_engines_text\">PRO</a>."
+
+#: under-construction.php:1377
+msgid "Prevent Search Engines from Indexing the Temporary Site"
+msgstr "Запобігти тому, щоб пошукові системи індексували тимчасовий сайт."
+
+#: under-construction.php:1209
+msgid "License key saved and activated!"
+msgstr "Ліцензійний ключ збережено та активовано!"
+
+#: under-construction.php:1201
+msgid "License key saved."
+msgstr "Ліцензійний ключ збережено."
+
+#: under-construction.php:811 under-construction.php:826
+#: under-construction.php:841
+msgid "I'm not interested (remove this notice)"
+msgstr "Мені це не цікаво (видалити це повідомлення)"
+
+#: under-construction.php:810
+msgid "Translate UCP into your language &amp; get a PRO license for free"
+msgstr "Перекладіть UCP на вашу мову і безкоштовно отримайте ліцензію PRO"
+
+#: under-construction.php:327
+msgid "UnderConstructionPage PRO"
+msgstr "Сторінка На Реконструкції PRO"
+
+#. Description of the plugin
+msgid "Put your site behind a great looking under construction, coming soon, maintenance mode or landing page."
+msgstr "Сховайти ваш сайт за гарною сторінкою \"у розробці\", \"незабаром вікриється\", \"на технічному обслуговуванні\" або цільовою сторінкою."
+
+#: under-construction.php:1818
+msgid "Whitelisted IP Addresses"
+msgstr "Внести IP адреси до білого списку"
+
+#: under-construction.php:1683 under-construction.php:1703
+msgid "Build Your Own Custom Theme"
+msgstr "Збудувати свою власну тему"
+
+#: under-construction.php:1726
+msgid "Christmas Greetings"
+msgstr "Різдвяні вітання"
+
+#: under-construction.php:1415
+msgid "Reset all settings to default values"
+msgstr "Повернути всі настройки на значення за замовчуванням."
+
+#. Author of the plugin
+#: under-construction.php:1045
+msgid "WebFactory Ltd"
+msgstr "WebFactory Ltd"
+
+#: under-construction.php:1027
+msgid "Get the <b>PRO</b> version"
+msgstr "Придбати версію <b>PRO</b>"
+
+#: under-construction.php:1015
+msgid "Go <b>PRO</b>"
+msgstr "Перейдіть на <b>PRO</b>"
+
+#: under-construction.php:1015 under-construction.php:1027
+#: under-construction.php:2108
+msgid "Get PRO"
+msgstr "Придбати версію PRO"
+
+#: under-construction.php:1851
+msgid "Selected users (when logged in) will <b>not</b> be affected by the under construction mode and will always see the \"normal\" site."
+msgstr "Вибрані користувачі (при вході в систему) <b>не будуть</b> піддаватися впливу режиму будівництва і завжди побачать \"звичайний\" сайт."
+
+#: under-construction.php:1843
+msgid "Selected user roles will <b>not</b> be affected by the under construction mode and will always see the \"normal\" site. Default: administrator."
+msgstr "Режим \"У Розробці\" <b>не</b> впливатиме на обрані ролі користувачів, і вони завжди бачитимуть \"звичайний\" сайт. За замовчуванням: адміністратор."
+
+#: under-construction.php:1672
+msgid "Show more Social &amp; Contact Icons"
+msgstr "Показати більше іконок соціальних мереж та контактів"
+
+#: under-construction.php:1669
+msgid "Phone number in full international format."
+msgstr "Телефонний номер у міжнародному форматі."
+
+#: under-construction.php:1667
+msgid "Phone Number"
+msgstr "Телефонний номер"
+
+#: under-construction.php:1663
+msgid "Email will be encoded on the page to protect it from email address harvesters."
+msgstr "Адреса електронної пошти буде закодована на сторінці щоб захистити її від збирувачів електронних поштових адрес."
+
+#: under-construction.php:1662
+msgid "name@domain.com"
+msgstr "name@domain.com"
+
+#: under-construction.php:1661
+msgid "Email Address"
+msgstr "Електронна адреса"
+
+#: under-construction.php:1668
+msgid "+1-123-456-789"
+msgstr "+1-123-456-789"
+
+#: under-construction.php:1655
+msgid "WhatsApp Phone Number"
+msgstr "Номер телефону WhatsApp"
+
+#: under-construction.php:1651
+msgid "Skype username or account name."
+msgstr "Ім'я користувача або обліковий запис Skype"
+
+#: under-construction.php:1650
+msgid "Skype username or account name"
+msgstr "Ім'я користувача або обліковий запис Skype"
+
+#: under-construction.php:1649
+msgid "Skype Username"
+msgstr "Ім'я користувача Skype"
+
+#: under-construction.php:1645
+msgid "Complete URL, with https prefix to Telegram group, channel or account."
+msgstr "Повний URL, з префіксом https, групи, каналу або облікового запису в Telegram."
+
+#: under-construction.php:1644
+msgid "Telegram group, channel or account URL"
+msgstr "Група у Telegram, канал чи URL облікового запису"
+
+#: under-construction.php:1643
+msgid "Telegram Group, Channel or Account"
+msgstr "Група, канал або обліковий запис в Telegram"
+
+#: under-construction.php:1633
+msgid "Complete URL, with https prefix, to Instagram profile."
+msgstr "Повний URL, з префіксом https,  облікового запису в Instagram."
+
+#: under-construction.php:1632
+msgid "Instagram profile URL"
+msgstr "URL облікового запису в Instagram"
+
+#: under-construction.php:1631
+msgid "Instagram Profile"
+msgstr "Обліковий запис в Instagram"
+
+#: under-construction.php:1639
+msgid "Complete URL, with https prefix, to VK profile."
+msgstr "Повний URL, з префіксом https, облікового запису ВКонтакті."
+
+#: under-construction.php:1626
+msgid "Behance profile URL"
+msgstr "URL облікового запису в Behance"
+
+#: under-construction.php:1625
+msgid "Behance Profile"
+msgstr "Обліковий запис в Behance"
+
+#: under-construction.php:1621
+msgid "Complete URL, with https prefix, to Dribbble profile."
+msgstr "Повний URL, з префіксом https, облікового запису в Dribbble."
+
+#: under-construction.php:1620
+msgid "Dribbble profile URL"
+msgstr "URL облікового запису в Dribbble"
+
+#: under-construction.php:1619
+msgid "Dribbble Profile"
+msgstr "Обліковий запис"
+
+#: under-construction.php:1615
+msgid "Complete URL, with https prefix, to Pinterest profile."
+msgstr "Повний URL, з префіксом https, облікового запису в Pinterest"
+
+#: under-construction.php:1614
+msgid "Pinterest profile URL"
+msgstr "URL облікового запису в Pinterest"
+
+#: under-construction.php:1613
+msgid "Pinterest Profile"
+msgstr "Обліковий запис в Pinterest."
+
+#: under-construction.php:1609
+msgid "Complete URL, with https prefix, to Vimeo page or video."
+msgstr "Повний URL, з префіксом https, сторінки або відео в Vimeo."
+
+#: under-construction.php:1608
+msgid "Vimeo page or video URL"
+msgstr "URL сторінки або відео в Vimeo"
+
+#: under-construction.php:1607
+msgid "Vimeo Profile Page or Video"
+msgstr "Сторінка облікового запису або відео в Vimeo"
+
+#: under-construction.php:1603
+msgid "Complete URL, with https prefix, to YouTube page or video."
+msgstr "Повний URL, з префіксом https, сторінки або відео в YouTube."
+
+#: under-construction.php:1602
+msgid "YouTube page or video URL"
+msgstr "URL сторінки або відео в YouTube"
+
+#: under-construction.php:1601
+msgid "YouTube Profile Page or Video"
+msgstr "Сторінка особистого запису або відео в YouTube "
+
+#: under-construction.php:1597
+msgid "Complete URL, with https prefix, to LinkedIn profile page."
+msgstr "Повний URL, з префіксом https, сторінки облікового запису в LinkedIn."
+
+#: under-construction.php:1596
+msgid "LinkedIn profile page URL"
+msgstr "URL облікового запису в LinkedIn"
+
+#: under-construction.php:1595
+msgid "LinkedIn Profile"
+msgstr "Обліковий запис в LinkedIn"
+
+#: under-construction.php:1591
+msgid "Complete URL, with https prefix, to Twitter profile page."
+msgstr "Повний URL, з префіксом https, облікового запису в Twitter."
+
+#: under-construction.php:1590
+msgid "Twitter profile URL"
+msgstr "URL облікового запису в Twitter"
+
+#: under-construction.php:1589
+msgid "Twitter Profile"
+msgstr "Обліковий запис в Twitter"
+
+#: under-construction.php:1585
+msgid "Complete URL, with https prefix, to Facebook page."
+msgstr "Повний URL, з префіксом https, сторінки в Facebook."
+
+#: under-construction.php:1584
+msgid "Facebook business or personal page URL"
+msgstr "URL бізнес або особистої сторінки в Facebook "
+
+#: under-construction.php:1583
+msgid "Facebook Page"
+msgstr "Сторінка в Facebook"
+
+#: under-construction.php:1579
+msgid "Social &amp; Contact Icons"
+msgstr "Іконки соціальних мереж і контактів"
+
+#: under-construction.php:1529
+msgid "Show Some Love"
+msgstr "Показати любов"
+
+#: under-construction.php:1559
+msgid "Login Button"
+msgstr "Кнопка входу"
+
+#: under-construction.php:1516
+msgid "Headline"
+msgstr "Заголовок"
+
+#: under-construction.php:1510
+msgid "Description"
+msgstr "Опис"
+
+#: under-construction.php:1496
+msgid "Title"
+msgstr "Назва"
+
+#: under-construction.php:1416
+msgid "By resetting all settings to their default values any customizations you have done will be lost. There is no undo."
+msgstr "Повернувши всі натройки на їхні значення за замовчуванням, ви втратите всі ваші налаштування. Повернути їх назад буде не можливо."
+
+#: under-construction.php:1413
+msgid "Reset Settings"
+msgstr "Скинути налаштування"
+
+#: under-construction.php:1407
+msgid "Enter the unique tracking ID found in your GA tracking profile settings to track visits to pages."
+msgstr "Щоб відстежувати візити на сторінки, введіть унікальний tracking ID з настройок вашого облікового запису Гугл Аналітікс (GA)."
+
+#: under-construction.php:1395
+msgid ""
+"If enabled, construction mode will automatically stop showing on the selected date.\n"
+"    This option will not \"auto-enable\" construction mode. Status has to be set to \"On\"."
+msgstr ""
+"Якщо ця опція вибрана, то режим \"у розробці\" автоматично буде виключено у вибрану дату.\n"
+"    Ця опція не може автоматично увімкнути режим \"у розробці\". Цей статус повинен бути установлений на \"Вкл\"."
+
+#: under-construction.php:1373
+msgid "By enabling construction mode users will not be able to access the site's content. They will only see the under construction page. To configure exceptions set <a class=\"change_tab\" data-tab=\"3\" href=\"#whitelisted-roles\">whitelisted user roles</a>."
+msgstr "При включеному режимі  \"у розробці\", користувачі не матимуть доступу до змісту сайта. Вони бачитимуть тільки сторінку \"у розробці\". Щоб зробити виключення, додайте <a class=\"change_tab\" data-tab=\"3\" href=\"#whitelisted-roles\">ролі користувачів до білого списку</a>."
+
+#: under-construction.php:1045
+msgid "Visit our site to get more great plugins"
+msgstr "Відвідайте наш сайт щоб отримати ще більше чудових плагінів"
+
+#: under-construction.php:1045
+msgid "Visit UCP's site for more info"
+msgstr "Відвідайте сайт UCP для додаткової інформації"
+
+#: under-construction.php:789
+msgid "Thank you very much! The UCP team"
+msgstr "Щиро дакуємо Вам! Команда UCP"
+
+#: under-construction.php:744
+msgid "Configure UnderConstructionPage"
+msgstr "Настроїти UnderConstructionPage"
+
+#: under-construction.php:744
+msgid "Preview UnderConstructionPage"
+msgstr "Переглянути UnderConstructionPage"
+
+#: under-construction.php:744
+msgid "<b>Under Construction Mode is enabled</b> but you are whitelisted so you see the normal site."
+msgstr "<b>Режим \"У Розробці\" увімкнено</b>, але ви знаходитесь у білому списку, отже бачите звичайний сайт."
+
+#: under-construction.php:436
+msgid "Something is not right with your wp_mail() function. Please email as at ucp@webfactoryltd.com."
+msgstr "Щось не так з вашою функцією wp_mail(). Будь ласка, напишіть нам на ucp@webfactoryltd.com."
+
+#: under-construction.php:414
+msgid "Please double-check your email address."
+msgstr "Будь ласка, ще раз перевірте адресу вашої електронної пошти."
+
+#: under-construction.php:1725
+msgid "Bulldozer at Work"
+msgstr "Бульдозер на роботі"
+
+#: under-construction.php:2045
+msgid "PRO"
+msgstr "PRO"
+
+#: under-construction.php:1191
+msgid "Please enter a valid Google Analytics Tracking ID or disable tracking."
+msgstr "Будь ласка, введіть дійсний Google Analytics Tracking ID або відключіть tracking."
+
+#: under-construction.php:1723
+msgid "Clock"
+msgstr "Годинник"
+
+#: under-construction.php:1897
+msgid "Contact Support"
+msgstr "Зв'язатися із службою підтримки"
+
+#: under-construction.php:1722
+msgid "Stop"
+msgstr "Зупинити"
+
+#: under-construction.php:1388
+msgid "Automatic End Date &amp; Time"
+msgstr "Дата та час автоматичного закінчення"
+
+#: under-construction.php:1720
+msgid "Setup"
+msgstr "Налаштування"
+
+#: under-construction.php:1719
+msgid "Internet of Things"
+msgstr "Інтернет речей"
+
+#: under-construction.php:1717
+msgid "Puzzles"
+msgstr "Головоломки"
+
+#: under-construction.php:1716
+msgid "Laptop"
+msgstr "Ноутбук"
+
+#: under-construction.php:1714
+msgid "Ambulance"
+msgstr "Швидка допомога"
+
+#: under-construction.php:1713
+msgid "Light Bulb"
+msgstr "Лампочка"
+
+#: under-construction.php:995 under-construction.php:1014
+msgid "Settings"
+msgstr "Налаштування"
+
+#: under-construction.php:965
+msgid "Under construction mode is disabled"
+msgstr "Режим \"У розробці\" відключено"
+
+#: under-construction.php:962 under-construction.php:969
+#: under-construction.php:1365
+msgid "Under Construction Mode"
+msgstr "Режим \"У розробці\""
+
+#: under-construction.php:958
+msgid "Under construction mode is enabled"
+msgstr "Режим \"У розробці\" увімкнено."
+
+#: under-construction.php:788
+msgid "I've already rated the plugin"
+msgstr "Я вже дав оцінку плагіну"
+
+#: under-construction.php:787
+msgid "Help make the plugin better by rating it"
+msgstr "Допоможіть зробити плагін кращім, дайте йому оцінку"
+
+#: under-construction.php:661
+msgid "Free UnderConstructionPage plugin for WordPress"
+msgstr "Безкоштовний плагін UnderConstructionPage для WordPress"
+
+#: under-construction.php:988 under-construction.php:2252
+msgid "Preview"
+msgstr "Попередній перегляд"
+
+#: under-construction.php:2251
+msgid "Save Changes"
+msgstr "Зберігти зміни"
+
+#: under-construction.php:2043
+msgid "Access"
+msgstr "Доступ"
+
+#: under-construction.php:1522 under-construction.php:2042
+msgid "Content"
+msgstr "Вміст"
+
+#: under-construction.php:2041
+msgid "Design"
+msgstr "Дизайн"
+
+#: under-construction.php:2040
+msgid "Main"
+msgstr "Головна"
+
+#: under-construction.php:1898
+msgid "FAQ"
+msgstr "Часті питання"
+
+#: under-construction.php:1847
+msgid "Whitelisted Users"
+msgstr "Користувачі в білому списку"
+
+#: under-construction.php:1838
+msgid "Whitelisted User Roles"
+msgstr "Ролі користувачів у білому списку"
+
+#: under-construction.php:1784
+msgid "Custom CSS"
+msgstr "Власний CSS"
+
+#: under-construction.php:1752
+msgid "Theme"
+msgstr "Тема"
+
+#: under-construction.php:1711
+msgid "Rocket Launch #2"
+msgstr "Запуск ракети №2"
+
+#: under-construction.php:1710
+msgid "People at Work #2"
+msgstr "Люди на роботі №2"
+
+#: under-construction.php:1708
+msgid "Hot Air Balloon"
+msgstr "Повітряна куля"
+
+#: under-construction.php:1707
+msgid "Lighthouse"
+msgstr "Маяк"
+
+#: under-construction.php:1705
+msgid "Sad Site"
+msgstr "Сумний сайт"
+
+#: under-construction.php:1704
+msgid "Windmill"
+msgstr "Вітряк"
+
+#: under-construction.php:1702
+msgid "People at Work"
+msgstr "Люди на роботі"
+
+#: under-construction.php:1701
+msgid "Safe"
+msgstr "Безпечний"
+
+#: under-construction.php:1699
+msgid "Cyber Chick Dark"
+msgstr "Кібер-чікса (темна)"
+
+#: under-construction.php:1698
+msgid "Loader at Work"
+msgstr "Навантажувач на роботі"
+
+#: under-construction.php:1696
+msgid "Rocket Launch"
+msgstr "Запуск ракети"
+
+#: under-construction.php:1695
+msgid "Cyber Chick"
+msgstr "Кібер-чікса"
+
+#: under-construction.php:1693
+msgid "Under Construction Text"
+msgstr "Текст \"у розробці\""
+
+#: under-construction.php:1692
+msgid "Forklift at Work"
+msgstr "Автонавантажувач на роботі"
+
+#: under-construction.php:1690
+msgid "Things Went Dark"
+msgstr "Все потемніло"
+
+#: under-construction.php:1686
+msgid "Plain Text"
+msgstr "Простий текст"
+
+#: under-construction.php:1684
+msgid "Mad Designer"
+msgstr "Божевільний дизайнер"
+
+#: under-construction.php:1400
+msgid "Google Analytics Tracking"
+msgstr "Google Analytics Tracking"
+
+#: under-construction.php:1394
+msgid "Open date & time picker"
+msgstr "Вибірник дати та часу"
+
+#: under-construction.php:1101
+msgid "Thank you for being patient. We are doing some work on the site and will be back shortly."
+msgstr "Дякуємо за ваше терпіння. Ми проводимо работу на сайті і невдовзі запрацюємо знову."
+
+#: under-construction.php:1100
+msgid "Sorry, we're doing some work on the site"
+msgstr "Вибачьте, ми проводимо работу на сайті"
+
+#: under-construction.php:1026 under-construction.php:2044
+msgid "Support"
+msgstr "Підтримка"
+
+#: under-construction.php:1026
+msgid "Get help"
+msgstr "Отримати допомогу"
+
+#: under-construction.php:1014
+msgid "UnderConstruction Settings"
+msgstr "Налаштування UnderConstruction"
+
+#: under-construction.php:1005
+msgid "Under Construction Mode is <b>enabled</b>."
+msgstr "Режим \"У розробці\" <b>увімкнено</b>."
+
+#: under-construction.php:639
+msgid "Log in to WordPress admin"
+msgstr "Увійти на сторінку адміністратора WordPress"
+
+#: under-construction.php:636
+msgid "Open WordPress admin"
+msgstr "Відкрити сторінку адміністратора WordPress"
+
+#: under-construction.php:323
+msgid "Select whitelisted user(s)"
+msgstr "Вибрати користувачів з білого списку"
+
+#: under-construction.php:142
+msgid "UnderConstruction plugin <b>requires WordPress version 4.0</b> or higher to function properly. You are using WordPress version %s. Please <a href=\"%s\">update it</a>."
+msgstr "Плагін UnderConstruction <b>вимагає WordPress версії 4.0</b> або вище, щоб він працював належним чином. Ви використовуєте WordPress версію %s. Будь ласка, <a href=\"%s\">оновіть її</a>."
+
+#: under-construction.php:321 under-construction.php:1045
+msgid "UnderConstructionPage"
+msgstr "UnderConstructionPage"
+
+#: under-construction.php:958 under-construction.php:965
+#: under-construction.php:1077
+msgid "UnderConstruction"
+msgstr "UnderConstruction"
+
+#. Plugin URI of the plugin
+msgid "https://underconstructionpage.com/"
+msgstr "https://underconstructionpage.com/"
+
+#. Author URI of the plugin
+msgid "https://www.webfactoryltd.com/"
+msgstr "https://www.webfactoryltd.com/"
+
+#. Plugin Name of the plugin
+#: under-construction.php:1688
+msgid "Under Construction"
+msgstr "У розробці"
+
+#: under-construction.php:320
+msgid "An undocumented error has occured. Please refresh the page and try again."
+msgstr "Сталася незадокументована помилка. Будь ласка обновіть сторінку та спробуйте ще раз."

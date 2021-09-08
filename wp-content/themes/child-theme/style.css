@@ -1,0 +1,231 @@
+/*
+Theme Name: Дочірня тема до 2021
+Template: twentytwentyone
+Version: 1.0.0
+*/
+
+@import url("../twentytwentyone/style.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;700&display=swap'); /* Inter font */
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"); /* Bootstrap Icons */
+
+:root {
+    --global--font-primary: Inter, sans-serif;
+    --global--font-secondary: Inter, sans-serif;
+    --global--color-background: #ffffff;
+}
+
+.shortcode-container {
+    position: relative;
+  --sc-background: #e5e5e5;
+  --sc-accent: #4F46E5;
+  --sc-text-color: #111827;
+}
+
+.wizard-container {
+  position: relative;
+  width: 90vw;
+  padding: 22px 40px 80px 40px;
+  height: fit-content;
+  background: var(--sc-background);
+  border-radius: 6px;
+  font-family: Inter, sans-serif;
+}
+
+.wizard-breadcrumbs {
+  position: relative;
+  width: 95%;
+  height: 44px;
+  background: white;
+  padding: 0px 16px;
+  border-radius: 6px;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.06);
+  margin: 0;
+  margin-bottom: 29px;
+  overflow: hidden;
+  overflow-x: auto;
+  flex-wrap: nowrap;
+}
+.wizard-breadcrumbs .title {
+  text-align: center;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 130%;
+  letter-spacing: -0.04px;
+  color: #6B7280;
+  white-space: nowrap;
+}
+.wizard-breadcrumbs .title.selected {
+  color: var(--sc-accent);
+}
+.wizard-breadcrumbs .house {
+  padding: 0;
+  flex: 1;
+  color: #9CA3AF;
+}
+.wizard-breadcrumbs .house i {
+  font-size: 16px;
+}
+.wizard-breadcrumbs .separator {
+  border-top: 1.76px solid var(--sc-background);
+  border-right: 1.76px solid var(--sc-background);
+  height: 31.11px;
+  max-width: 31.11px;
+  aspect-ratio: 1 / 1;
+  transform: translateX(-14px) rotate(45deg);
+  padding: 0;
+}
+
+.wizard-content {
+  display: flex;
+  justify-content: start;
+  overflow: hidden;
+}
+.wizard-step {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+.wizard-step.selected {
+  opacity: 1;
+}
+
+.wizard-title h2 {
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 600;
+  color: var(--sc-text-color);
+  letter-spacing: -2.14px;
+  margin-bottom: 29px;
+}
+.wizard-step.step3 .wizard-title h2 {
+  margin: 0;
+}
+
+.wizard-input {
+  margin: 0px 0px 19px 0px;
+}
+.wizard-input:last-child {
+  margin-bottom: 0;
+}
+.wizard-input .input-title {
+  text-align: right;
+  margin-right: 29px;
+  padding: 0;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 220%;
+  letter-spacing: -0.18px;
+  color: #4B5563;
+}
+.wizard-input .input-title sup {
+  opacity: 0.5;
+}
+.wizard-input .input-field {
+  max-width: 370px;
+  height: 44px;
+  padding: 12px 16px;
+  background: white;
+  border: 1px solid #D1D5DB;
+  box-sizing: border-box;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.07);
+  border-radius: 6px;
+}
+
+.wizard-input input.invalid {
+  box-shadow: 0px 0px 8px -2px red;
+}
+
+#wizardPrice {
+  margin: 0;
+  font-weight: 600;
+  font-size: 15vw;
+  letter-spacing: -2.14px;
+  color: var(--sc-text-color);
+}
+
+/* This section is needed to hide arrows from number input */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+/* end of section */
+
+#wizardSendingResult {
+  margin: 0;
+}
+
+.wizard-buttons {
+  position: absolute;
+  left: 40px;
+  bottom: 22px;
+  margin: 0;
+}
+.wizard-buttons .wizard-btn {
+  padding: 12px 16px;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.07);
+  border-radius: 6px;
+  border: none;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 135%;
+  white-space: nowrap;
+}
+.wizard-buttons .wizard-btn#wizardBtn1 {
+  background: var(--sc-accent);
+  color: white;
+}
+.wizard-buttons .wizard-btn#wizardBtn2 {
+  visibility: hidden;
+  pointer-events: none;
+  background: white;
+  color: var(--sc-accent);
+  margin-left: 19px;
+}
+.wizard-buttons .wizard-btn#wizardBtn2.visible {
+  visibility: visible;
+  pointer-events: all;
+}
+
+.wizard-buttons .wizard-btn i {
+  margin-right: 6px;
+}
+
+.wizard-description {
+  margin: 54px 0px 0px 80px;
+  font-size: 24px;
+  line-height: 135%;
+  letter-spacing: -0.18px;
+  color: color: var(--sc-text-color);
+}
+
+/*///////// -- DESKTOP STYLES BELOW -- /////////*/
+
+@media (min-width: 768px) {
+  .wizard-container {
+    width: 770px;
+    height: 470px;
+    padding: 44px 80px;
+  }
+
+  .wizard-breadcrumbs {
+    width: 503px;
+  }
+
+  #wizardPrice {
+    font-size: 144px;
+  }
+
+  .wizard-buttons {
+    left: 80px;
+    bottom: 44px;
+  }
+}
