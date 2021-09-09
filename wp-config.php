@@ -65,7 +65,14 @@ define( 'WP_CACHE_KEY_SALT', 'C@!D#xMmocJ3)P~6Kmp.qeQtG )9Q(Qx7r:fI;2GG~}GF8jqY<
 $table_prefix = 'wp_';
 
 
-
+define( 'SMTP_HOST', 'your smtp server here' );  // A2 Hosting server name. For example, "a2ss10.a2hosting.com"
+define( 'SMTP_AUTH', true );
+define( 'SMTP_PORT', '465' );
+define( 'SMTP_SECURE', 'ssl' );
+define( 'SMTP_USERNAME', 'your email here' );  // Username for SMTP authentication
+define( 'SMTP_PASSWORD', 'your password here' );          // Password for SMTP authentication
+define( 'SMTP_FROM',     'your email here again' );  // SMTP From address
+define( 'SMTP_FROMNAME', 'your username here' );         // SMTP From name
 
 /* That's all, stop editing! Happy publishing. */
 

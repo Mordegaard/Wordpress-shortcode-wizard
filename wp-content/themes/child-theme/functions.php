@@ -53,4 +53,32 @@ function child_theme_enqueue_styles() {
 }
 add_action( 'wp_enqueue_scripts', 'child_theme_enqueue_styles', 99 );
 
+function callback_send_email(){
+      $to = "email@domain.com";
+      $email = $_REQUEST['email'];
+	  $name = $_REQUEST['name'];
+      $phone= $_REQUEST['phone'];
+      $quantity= $_REQUEST['quantity'];
+      $price = $_REQUEST['price'];
+      $subject = "Contact Form";
+	  $email_body = "New message received.<br>".
+		"Name: $name. <br>".
+		"phone: $phone. <br>".
+		"email: $email. <br>".
+		"price: $price. <br>";
+      $headers  = "MIME-Version: 1.0" . "\r\n";
+      $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+      $headers .= "From: $name <$email> \r\n";
+      $headers .= "Reply-To: $email \r\n";
+	  if( mail($to,$subject,$email_body,$headers) ){
+	    echo 'Email was Sent Successfully';
+	  } else {
+	    echo 'Something went wrong...';
+      }
+      die();
+}
+
+add_action( 'wp_ajax_send_email', 'callback_send_email' );
+add_action( 'wp_ajax_nopriv_send_email', 'callback_send_email' );
+
 ?>

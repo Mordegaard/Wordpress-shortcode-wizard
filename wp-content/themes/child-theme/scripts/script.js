@@ -1,3 +1,1 @@
-jQuery(document).ready(function(){
-    console.log("jQuery is loaded")
-});
+//additional scripts fo child-theme will go here
